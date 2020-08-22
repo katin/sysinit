@@ -6,6 +6,7 @@ sudo apt update
 # install some favorites
 sudo apt install vim -y
 sudo apt install nmap -y
+sudo apt install firefox-esr -y
 
 
 
